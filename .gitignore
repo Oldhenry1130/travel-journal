@@ -1,0 +1,16 @@
+# Only the deployable entry page, encrypted payload and license belong here.
+*.pdf
+*.zip
+*.docx
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.env
+.env*
+node_modules/
+work/
+source/
+decrypted*
+itinerary.js
+places.js
